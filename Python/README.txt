@@ -1,0 +1,1 @@
+Just the stuff i learn about Python and projects to get myself familar with coding before i move on to learn about ML
